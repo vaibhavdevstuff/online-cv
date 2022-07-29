@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -24,24 +24,24 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: #http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: C#
-        level: 
+      - idiom: #C#
+        #level: 
 
-      - idiom: C++
-        level: 
+      - idiom: #C++
+        #level: 
 
     interests:
       - item: Gaming
-        link:
+        #link:
 
       - item: Numismatics
-        link:
+        #link:
 
       - item: Listening to Music
-        link:
+        #link:
 
 career-profile:
     title: Career Profile
@@ -52,6 +52,17 @@ education:
       university: Chhatrapati Shahu Ji Maharaj University
       time: 2018 - 2021
       details: |
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Unity
+      - name: C# (Unity Programming)
+      - name: C++
+      - name: Gameplay Designing
+      - name: Gitlab
+      - name: Photoshop
        
 experiences:
     - role: Unity Developer
@@ -114,27 +125,7 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
