@@ -58,10 +58,12 @@ experiences:
       time: Sept 2021 - Present
       company: DigiNhance (GreenLights Studios) | Warland NFT
       details: |
-        Responsible for everything related to AI Enemies within Unity (Behaviors, States, Animator Controller, Attack System,
-Navigation, Components Handling), Environment Setup of Game, Handling the Random Map Placement, Game
-Optimization included Faster Game Scenes Loading, CPU & GPU Optimization, Improving Overall Game
-Performance, Creating Target Scanner System For AI.
+        - Responsible for everything related to AI Enemies within Unity (Behaviors, States, Animator Controller, Attack System, Navigation, Components Handling)
+        - Environment Setup of Game 
+        - Handling the Random Map Placement 
+        - Game Optimization included Faster Game Scenes Loading, CPU & GPU Optimization
+        - Improving Overall Game Performance
+        - Creating Target Scanner System For AI.
 
 projects:
     title: Projects
