@@ -6,7 +6,7 @@ sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
     skillset: True
-    
+
     # Profile information
     name: Vaibhav Jaiswal
     tagline: Unity Developer | Game Developer
@@ -112,20 +112,21 @@ publications:
       Games I've Published
 
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Drive Off
+        link: https://play.google.com/store/apps/details?id=com.vaibhavdevstuff.driveoff
+        authors: Arcade Car Chase Game (Available on Google Playstore)
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: PaperCut Survivor
+        link: https://vaibhavdevstuff.itch.io/papercut-survivor
+        authors: 2D Top-Down Shooter Survivor Game (Available on itch.io)
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Fly High
+        link: https://play.google.com/store/apps/details?id=com.vaibhavdevstuff.flyhigh
+        authors: 2D Casual Game (Available on Google Playstore)
+
+      - title: Knight Platformer
+        link: https://vaibhavdevstuff.itch.io/knight-platformer
+        authors: 2D Platformer (Available on itch.io)
 
 
 
