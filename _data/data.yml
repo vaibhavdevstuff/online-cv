@@ -36,6 +36,14 @@ sidebar:
         - name: Gitlab
         - name: Photoshop
 
+    qualifications:
+      - desc: Experience in computer games, mobile games and AR applications.
+      - desc: Experience in prototyping game mechanics.
+      - desc: Experience in creating game AI and their behaviours
+      - desc: Experienced in performance optimization.
+      - desc: Experienced in source control software.
+      - desc: Self directed and good with problem solving and debugging.
+
 career-profile:
     title: Career Profile
     summary: |
