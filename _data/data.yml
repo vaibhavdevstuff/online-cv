@@ -41,6 +41,12 @@ career-profile:
     summary: |
       Passionate programmer and game developer with proficiency in making both 2D and 3D games with Unity Game Engine.
        
+education:
+    - degree: Bachelor of Computer Application
+      university: Chhatrapati Shahu Ji Maharaj University
+      time: 2018 - 2021
+      details: |
+
 experiences:
     - role: Unity Developer
       time: Sept 2021 - Present
@@ -104,11 +110,7 @@ projects:
         link: https://github.com/vaibhavdevstuff/FPS_Prototype
         tagline: "Prototyping"
 
- education:
-    - degree: Bachelor of Computer Application
-      university: Chhatrapati Shahu Ji Maharaj University
-      time: 2018 - 2021
-      details: |
+
 
 
 
