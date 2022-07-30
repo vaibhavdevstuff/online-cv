@@ -1,31 +1,23 @@
-{% assign skills = site.data.data.skills %}
+{% assign skills = site.data.data.sidebar.skills %}
 {% if skills %}
-<section class="skills-section section">
+<div class="skillset-container skillset-container-block">
 
-  <h2 class="section-title">
-    <span class="fa-stack fa-xs">
-      <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
+  <h2 class="skillset-container-block-title">
+    <span>
+      <i class="fa fa-desktop" style="font-size:16px;"></i>
     </span>
-    {{ skills.title }}
+    Skills
   </h2>
 
-  <div class="skillset">
-
+  <ul class="list styled skill-item" style="list-style-type:disc;">
     {% for skill in skills.toolset %}
-    <div class="item">
 
-      <h3 class="level-title">{{ skill.name }}</h3>
+      <li>
+        {{ skill.name }}
+      </li>
 
-      <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
-        </div>
-      </div><!--//level-bar-->
-
-    </div><!--//item-->
     {% endfor %}
+  </ul>
 
-  </div>
-
-</section><!--//skills-section-->
-{% endif %}
+ </div>
+ {% endif %}

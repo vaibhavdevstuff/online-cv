@@ -1,0 +1,23 @@
+{% assign qualifications = site.data.data.sidebar.qualifications %}
+{% if qualifications %}
+<div class="qualifications-container qualifications-container-block">
+
+  <h2 class="qualifications-container-block-title">
+    <span>
+      <i class="fa fa-cog" style="font-size:16px;"></i>
+    </span>
+    Qualifications
+  </h2>
+
+  <ul class="list-styled qualifications-list" style="list-style-type:disc;" >
+    {% for qualification in qualifications %}
+
+      <li>
+        {{ qualification.desc }}
+      </li>
+
+    {% endfor %}
+  </ul>
+
+</div>
+{% endif %}
