@@ -5,7 +5,7 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
-    skillset: True
+    #skillset: True
 
     # Profile information
     name: Vaibhav Jaiswal
@@ -18,31 +18,20 @@ sidebar:
     website: vaibhavdevstuff.wixsite.com/portfolio #do not add http://
     linkedin: vaibhavdevstuff
     github: vaibhavdevstuff
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: #'@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: #http://www.africau.edu/images/default/sample.pdf
 
     #languages:
-      #- idiom: #C#
-        #level: 
+     # - idiom: C#
+      #  level: Intermediate
 
-      #- idiom: #C++
-        #level: 
+      #- idiom: C++
+       # level: Intermediate
 
     interests:
       - item: Gaming
-        #link:
 
       - item: Numismatics
-        #link:
 
       - item: Listening to Music
-        #link:
 
     skills:
       title: Skills
