@@ -76,14 +76,16 @@ publications:
       - title: Drive Off
         link: https://play.google.com/store/apps/details?id=com.vaibhavdevstuff.driveoff
         authors: Arcade Car Chase Game (Available on Google Playstore)
-
-      - title: PaperCut Survivor
-        link: https://vaibhavdevstuff.itch.io/papercut-survivor
-        authors: 2D Top-Down Shooter Survivor Game (Available on itch.io)
+        detail: Implemented Unity Ad service and In app purchase
 
       - title: Fly High
         link: https://play.google.com/store/apps/details?id=com.vaibhavdevstuff.flyhigh
         authors: 2D Casual Game (Available on Google Playstore)
+        detail: Implemented Google Admob service
+
+      - title: PaperCut Survivor
+        link: https://vaibhavdevstuff.itch.io/papercut-survivor
+        authors: 2D Top-Down Shooter Survivor Game (Available on itch.io)
 
       - title: Knight Platformer
         link: https://vaibhavdevstuff.itch.io/knight-platformer
