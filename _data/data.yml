@@ -47,12 +47,6 @@ career-profile:
     title: Career Profile
     summary: |
       Passionate programmer and game developer with proficiency in making both 2D and 3D games with Unity Game Engine.
-
-education:
-    - degree: Bachelor of Computer Application
-      university: Chhatrapati Shahu Ji Maharaj University
-      time: 2018 - 2021
-      details: |
        
 experiences:
     - role: Unity Developer
@@ -65,6 +59,28 @@ experiences:
         - Game Optimization included Faster Game Scenes Loading, CPU & GPU Optimization
         - Improving Overall Game Performance
         - Creating Target Scanner System For AI.
+
+publications:
+    title: Publications
+    intro: |
+      Games I've Published
+
+    papers:
+      - title: Drive Off
+        link: https://play.google.com/store/apps/details?id=com.vaibhavdevstuff.driveoff
+        authors: Arcade Car Chase Game (Available on Google Playstore)
+
+      - title: PaperCut Survivor
+        link: https://vaibhavdevstuff.itch.io/papercut-survivor
+        authors: 2D Top-Down Shooter Survivor Game (Available on itch.io)
+
+      - title: Fly High
+        link: https://play.google.com/store/apps/details?id=com.vaibhavdevstuff.flyhigh
+        authors: 2D Casual Game (Available on Google Playstore)
+
+      - title: Knight Platformer
+        link: https://vaibhavdevstuff.itch.io/knight-platformer
+        authors: 2D Platformer (Available on itch.io)
 
 projects:
     title: Projects
@@ -95,27 +111,11 @@ projects:
         link: https://github.com/vaibhavdevstuff/FPS_Prototype
         tagline: "Prototyping"
 
-publications:
-    title: Publications
-    intro: |
-      Games I've Published
-
-    papers:
-      - title: Drive Off
-        link: https://play.google.com/store/apps/details?id=com.vaibhavdevstuff.driveoff
-        authors: Arcade Car Chase Game (Available on Google Playstore)
-
-      - title: PaperCut Survivor
-        link: https://vaibhavdevstuff.itch.io/papercut-survivor
-        authors: 2D Top-Down Shooter Survivor Game (Available on itch.io)
-
-      - title: Fly High
-        link: https://play.google.com/store/apps/details?id=com.vaibhavdevstuff.flyhigh
-        authors: 2D Casual Game (Available on Google Playstore)
-
-      - title: Knight Platformer
-        link: https://vaibhavdevstuff.itch.io/knight-platformer
-        authors: 2D Platformer (Available on itch.io)
+ education:
+    - degree: Bachelor of Computer Application
+      university: Chhatrapati Shahu Ji Maharaj University
+      time: 2018 - 2021
+      details: |
 
 
 
