@@ -29,7 +29,7 @@ sidebar:
     skills:
       title: Skills
       toolset:
-        - name: Unity
+        - name: Unity Game Engine
         - name: C# (Unity Programming)
         - name: C++
         - name: Gameplay Designing
@@ -37,11 +37,12 @@ sidebar:
         - name: Photoshop
 
     qualifications:
-      - desc: Experience in computer games, mobile games and AR applications.
-      - desc: Experience in prototyping game mechanics.
-      - desc: Experience in creating game AI and their behaviours
+      - desc: Experience in computer games and mobile games.
+      - desc: Experienced in prototyping game mechanics.
+      - desc: Experienced in creating game AI and their behaviours
       - desc: Experienced in performance optimization.
       - desc: Experienced in source control software.
+      - desc: Experience with In app Purchase & Ad Services i.e. Admob & Unity Ad.
       - desc: Self directed and good with problem solving and debugging.
 
 career-profile:
@@ -58,7 +59,7 @@ education:
 experiences:
     - role: Unity Developer
       time: Sept 2021 - Present
-      company: DigiNhance (GreenLights Studios) | Warland NFT
+      company: Warland NFT | DigiNhance (GreenLights Studios)
       details: |
         - Responsible for everything related to AI Enemies within Unity (Behaviors, States, Animator Controller, Attack System, Navigation, Components Handling)
         - Environment Setup of Game 
