@@ -97,13 +97,9 @@ projects:
     intro: >
       Personal Projects I've worked on
     assignments:
-      - title: Knight Platformer
-        link: https://vaibhavdevstuff.itch.io/knight-platformer
-        tagline: "2D Platformer"
-
-      - title: PaperCut Survivor
-        link: https://vaibhavdevstuff.itch.io/papercut-survivor
-        tagline: "2D top-Down Shooter Survivor Game"
+      - title: State Based AI Behavior
+        link: https://www.youtube.com/watch?v=qt_LkMyNKF4
+        tagline: "State-Based AI Enemy Behavior using C# and Visual State Machine within Unity"
 
       - title: Target Scanner
         link: https://github.com/vaibhavdevstuff/Unity-Target-Scanner
